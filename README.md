@@ -17,7 +17,6 @@ The saved outputs are visible on GitHub. The notebooks include training code, le
 ## Report and presentation
 
 - [AI-assisted visualization report](ai_reflection_midpoint.md)
-- [Figure guide](docs/visualization_overview.md)
 - [Five-minute presentation](presentations/Phase_1_5min.pptx)
 - [Speaking script](presentations/Phase_1_5min_script.md)
 - [Team information](team-info.json) and [workload split](workload.json)
