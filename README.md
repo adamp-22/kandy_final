@@ -28,3 +28,11 @@ Install the packages with `python -m pip install -r requirements.txt`, then open
 Run All uses the saved results in `phase1/data/`. It does not need the full dataset or trained weights. [The data guide](phase1/data/README.md) explains the saved files.
 
 To train again, download [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images). Put its `train/` and `test/` folders in `data/cifake/`, run `python phase1/prepare_data.py` from this folder, and set `RUN_TRAINING = True` in a model notebook. New runs save to their own folders. The submission plots continue to show the recorded experiment.
+
+
+## Team
+
+| Name | GitHub |
+| --- | --- |
+| G.L. | [LordNassel](https://github.com/LordNassel) |
+| Adam Parkanyi | [adamp-22](https://github.com/adamp-22) |
