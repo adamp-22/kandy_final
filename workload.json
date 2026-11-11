@@ -1,0 +1,15 @@
+{
+    "team_name": "Kandy",
+    "students": [
+        {
+            "first_name": "Gabor",
+            "last_name": "Levai",
+            "workload": 0.5
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "Parkanyi",
+            "workload": 0.5
+        }
+    ]
+}
